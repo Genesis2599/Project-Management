@@ -17,4 +17,8 @@ public class GithubClasswork {
     public static void AmiyaWasHere(){
      System.out.println("Amiya was here");
  }
+   public static void VinskiWasHere(){
+     System.out.println("Vinski was here");
+ }
+ 
 }
