@@ -14,4 +14,7 @@ public class GithubClasswork {
         String a = scan.nextLine();
         System.out.println(a);
     }
+    public static void AmiyaWasHere(){
+     System.out.println("Amiya was here");
+ }
 }
